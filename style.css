@@ -1,0 +1,24 @@
+.NameBackground {
+    background-color: teal;
+}
+
+.jumbotron {
+    width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightslategray;
+}
+
+.container {
+    background-color: white;
+}
+
+.display-4 {
+    color: teal;
+}
+
+html body {
+    background-color: lightslategray;
+}
