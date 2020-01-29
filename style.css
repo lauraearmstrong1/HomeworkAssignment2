@@ -2,6 +2,24 @@
     background-color: teal;
 }
 
+.navbar-brand {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-right: 0rem;
+    padding-left: 1rem;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.nav-link {
+    color: darkslategray;
+}
+
 .jumbotron {
     width: 50%;
     padding-right: 15px;
@@ -23,7 +41,40 @@ html body {
     background-color: lightgray;
 }
 
-footer {
-    text-align: center;
-    font-size: 12pt;
+.footer {
+    font-size: 16px;
+    padding-left: 12px;
+    padding-bottom: 12px;
+}
+
+.btn-primary {
+    background-color: teal;
+}
+
+.container-contact {
+   padding-left: 1rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   margin-left: 10rem;
+   margin-top: 2rem;
+   margin-bottom: 10rem;
+}
+
+.container-about {
+    padding-left: 1rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   margin-left: 10rem;
+    margin-bottom: 10rem;
+    margin-top: 2rem;
+}
+
+.container-portfolio {
+   padding-left: 1rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   margin-left: 10rem;
+   margin-top: 2rem;
+   margin-bottom: 10rem;
+
 }
