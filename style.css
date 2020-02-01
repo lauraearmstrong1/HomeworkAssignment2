@@ -69,8 +69,8 @@ html body {
 }
 
 .container-portfolio {
-   padding-left: 1rem;
-   padding-top: 1rem;
+   
+   /* padding-top: 1rem; */
    padding-bottom: 1rem;
    margin-left: 3rem;
    margin-top: 2rem;
@@ -84,14 +84,11 @@ html body {
 }
 
 h2 {
-    position: absolute;
-    top: 90%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    position: relative;
     background-color: teal;
+    top: -20%;
+    text-align: center;
     color: white;
-    padding-left: 1rem;
-    width: 100%;
 }
 
 
