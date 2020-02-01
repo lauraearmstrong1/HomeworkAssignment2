@@ -11,22 +11,14 @@
     padding-left: 1rem;
 }
 
-.navbar {
+.navTop {
     padding-top: 0;
     padding-bottom: 0;
+    padding-left: 3rem;
 }
 
 .nav-link {
     color: darkslategray;
-}
-
-.jumbotron {
-    width: 50%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    background-color: lightgray;
 }
 
 .container {
@@ -37,44 +29,71 @@
     color: teal;
 }
 
+h1 {
+    color: teal;
+  
+}
+
 html body {
     background-color: lightgray;
 }
 
 .footer {
-    font-size: 16px;
-    padding-left: 12px;
-    padding-bottom: 12px;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-left: 600px;
 }
 
 .btn-primary {
     background-color: teal;
+   
 }
 
 .container-contact {
    padding-left: 1rem;
    padding-top: 1rem;
    padding-bottom: 1rem;
-   margin-left: 10rem;
+   margin-left: 3rem;
    margin-top: 2rem;
    margin-bottom: 10rem;
 }
 
 .container-about {
-    padding-left: 1rem;
-   padding-top: 1rem;
-   padding-bottom: 1rem;
-   margin-left: 10rem;
-    margin-bottom: 10rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
     margin-top: 2rem;
+    margin-bottom: 10rem;
+    margin-left: 3rem;
+    width: 60%;
 }
 
 .container-portfolio {
    padding-left: 1rem;
    padding-top: 1rem;
    padding-bottom: 1rem;
-   margin-left: 10rem;
+   margin-left: 3rem;
    margin-top: 2rem;
    margin-bottom: 10rem;
-
+   width: 50%; 
 }
+
+.teal-border {
+    height: 5px;
+    background-color: teal;
+}
+
+h2 {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: teal;
+    color: white;
+    padding-left: 1rem;
+    width: 100%;
+}
+
+
+
+/* ADD media queries */
