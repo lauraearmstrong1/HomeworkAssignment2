@@ -62,18 +62,12 @@ html body {
     padding-left: 2rem;
     padding-top: 1rem;
     padding-bottom: 2rem;
-    margin-top: 2rem;
     margin-bottom: 10rem;
-    margin-left: 3rem;
-    width: 60%;
 }
 
 .container-portfolio {
     padding-top: 1rem;
-    margin-left: 3rem;
-    margin-top: 2rem;
     margin-bottom: 10rem;
-    width: 50%; 
 }
 
 .teal-border {
@@ -81,14 +75,10 @@ html body {
     background-color: teal;
 }
 
-h2 {
+h3 {
     position: relative;
     background-color: teal;
     top: -20%;
     text-align: center;
     color: white;
 }
-
-
-
-/* ADD media queries */
