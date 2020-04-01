@@ -7,7 +7,6 @@
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    padding-right: 0rem;
     padding-left: 1rem;
 }
 
@@ -41,7 +40,7 @@ html body {
 .footer {
     font-size: 14px;
     padding-top: 11px;
-    padding-left: 600px;
+    padding-left: 45%;
 }
 
 .btn-primary {
@@ -53,8 +52,6 @@ html body {
    padding-left: 1rem;
    padding-top: 1rem;
    padding-bottom: 1rem;
-   margin-left: 3rem;
-   margin-top: 2rem;
    margin-bottom: 10rem;
 }
 
@@ -70,11 +67,6 @@ html body {
     margin-bottom: 10rem;
 }
 
-.teal-border {
-    height: 5px;
-    background-color: teal;
-}
-
 h3 {
     position: relative;
     background-color: teal;
@@ -82,3 +74,6 @@ h3 {
     text-align: center;
     color: white;
 }
+
+footer 
+{ border-top: 10px solid teal; }
